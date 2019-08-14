@@ -18,7 +18,7 @@ const cards = [
 ];
 
 // Transação
-// Metódo POST - http://careers.picpay.com/tests/mobdev/transaction
+// Metódo POST - http://www.mocky.io/v2/5d542ec72f000048248614b3
 // Atenção: o backend não está respondendo o header de Content-Type corretamente; simularemos aqui que não temos acesso ao backend e teremos que resolver na nossa aplicação
 // Payload:
 const transactionPayload = {  
@@ -30,7 +30,7 @@ const transactionPayload = {
 }
 
 // Usuários
-// GET - http://careers.picpay.com/tests/mobdev/users
+// GET - https://www.mocky.io/v2/5d531c4f2e0000620081ddce
 // Payload:
 const userPayload = {
   "id": 1001,
