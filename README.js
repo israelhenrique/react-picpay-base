@@ -18,7 +18,7 @@ const cards = [
 ];
 
 // Transação
-// Metódo POST - http://www.mocky.io/v2/5d542ec72f000048248614b3
+// Metódo POST - https://www.mocky.io/v2/5d542ec72f000048248614b3
 // Atenção: o backend não está respondendo o header de Content-Type corretamente; simularemos aqui que não temos acesso ao backend e teremos que resolver na nossa aplicação
 // Payload:
 const transactionPayload = {  
